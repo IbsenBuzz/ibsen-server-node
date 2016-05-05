@@ -1,7 +1,7 @@
 {
     "name": "ibsen-server-node",
     "version": "1.1.2",
-    "description": "Ibsen Server NodeJJ, IO, SocketIO",
+    "description": "Ibsen Server NodeJS, IO, SocketIO",
     "main": "server.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -23,5 +23,8 @@
     "bugs": {
         "url": "https://github.com/IbsenBuzz/ibsen-server-node/issues"
     },
-    "homepage": "https://github.com/IbsenBuzz/ibsen-server-node#readme"
+    "homepage": "https://github.com/IbsenBuzz/ibsen-server-node#readme",
+    "dependencies": {
+        "socket.io": "^1.4.6"
+    }
 }
