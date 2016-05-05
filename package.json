@@ -1,0 +1,27 @@
+{
+    "name": "ibsen-server-node",
+    "version": "1.1.2",
+    "description": "Ibsen Server NodeJJ, IO, SocketIO",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/IbsenBuzz/ibsen-server-node.git"
+    },
+    "keywords": [
+        "ibsen",
+        "buzz",
+        "server",
+        "nodejs",
+        "socket",
+        "socket.io"
+    ],
+    "author": "Luis Suárez",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/IbsenBuzz/ibsen-server-node/issues"
+    },
+    "homepage": "https://github.com/IbsenBuzz/ibsen-server-node#readme"
+}
